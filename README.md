@@ -1,3 +1,5 @@
+[![Crayon112's github stats](https://github-readme-stats.vercel.app/api?username=Crayon112&show_icons=true)](https://github.com/Crayon112)
+
 ### Hi there 👋
 
 <!--
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peng-YM&theme=buefy&layout=compact)
 -->
